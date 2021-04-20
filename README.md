@@ -1,5 +1,5 @@
 <h1 align="center">
-  Huddle Challenge
+  <img alt="move.it" title="move.it" src="./images/logo.svg" />
 </h1>
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -28,6 +28,10 @@ This project was developed using the following technologies:
 
 - [HTML]
 - [CSS]
+
+## 🔥 Preview
+
+[Deploy with Github Pages](https://tieverton.github.io/huddle-challenge/)
 
 ## 🚀 Getting started
 
