@@ -26,7 +26,7 @@ html, body {
 
 body {
   background-color: hsl(257, 40%, 49%);
-  background-image: url(../images/bg-desktop.svg);
+  background-image: url(images/bg-desktop.svg);
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-font-smoothing: antialiased !important;
